@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webcam1", "Webcam1\Webcam1.csproj", "{511459C2-A10D-4A07-99FE-1A06788FE5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Debug|x64.ActiveCfg = Debug|x64
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Debug|x64.Build.0 = Debug|x64
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Release|x64.ActiveCfg = Release|x64
+		{511459C2-A10D-4A07-99FE-1A06788FE5FB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F960708-28E5-4ED6-94B4-D793866143DB}
+	EndGlobalSection
+EndGlobal
